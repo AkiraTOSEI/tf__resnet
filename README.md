@@ -4,7 +4,7 @@ This is example to Build ResNet1D-18
 
 
 Here is some demos.
-![demo](https://github.com/AkiraTOSEI/tf__resnet/blob/master/sample1.png)
+![demo](https://github.com/AkiraTOSEI/tf__resnet/blob/master/sample.png)
 ![demo](https://github.com/AkiraTOSEI/tf__resnet/blob/master/sample2.png)
 ![demo](https://github.com/AkiraTOSEI/tf__resnet/blob/master/sample3.png)
 
